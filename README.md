@@ -51,4 +51,5 @@ Reference-
 1. Tutorial: Titanic dataset machine learning for Kaggle
 https://corpocrat.com/2014/08/29/tutorial-titanic-dataset-machine-learning-for-kaggle/ 
 <br><br>
-<p align="center">Made with ❤️ by [Rhythm Bhavsar](https://github.com/rhythmbhavsar)</p>
+
+<p align="center">Made with ❤️ by Rhythm Bhavsar</p>
