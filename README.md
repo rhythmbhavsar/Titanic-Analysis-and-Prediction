@@ -47,9 +47,6 @@ rest all presentation is on jupyter python file  [Titanic_analysis_and_Predictio
 
 sklearn is used for the machine learning algorithm(**Logistic Regression**) with score around 77.7%.
 
-Reference-
-1. Tutorial: Titanic dataset machine learning for Kaggle
-https://corpocrat.com/2014/08/29/tutorial-titanic-dataset-machine-learning-for-kaggle/ 
 <br><br>
 
 <p align="center">Made with ❤️ by Rhythm Bhavsar</p>
